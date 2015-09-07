@@ -1,0 +1,21 @@
+[
+  {
+    "id": "tools",
+    "children": [
+      {
+        "id": "base64util",
+        "caption": "Base64 Util",
+        "children": [
+          {
+            "caption": "Base64 Encode",
+            "command": "base64_util_encode"
+          },
+          {
+            "caption": "Base64 Decode",
+            "command": "base64_util_decode"
+          }
+        ]
+      }
+    ]
+  }
+]
